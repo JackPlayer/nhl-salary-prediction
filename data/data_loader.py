@@ -1,3 +1,6 @@
+"""
+    Functions to load and clean data from CSV files.
+"""
 import pandas as pd
 
 """

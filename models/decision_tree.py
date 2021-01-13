@@ -1,3 +1,7 @@
+"""
+    Decision Tree Regressor Model 
+"""
+
 import sys
 sys.path.append("..")
 from data import data_loader

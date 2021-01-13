@@ -1,3 +1,4 @@
+# The features to include in the models
 feature_list = [
     "HANDED", 
     "GP", 

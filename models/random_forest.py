@@ -1,3 +1,7 @@
+"""
+    Random Forest Model 
+"""
+
 import sys
 sys.path.append("..")
 from data import data_loader
